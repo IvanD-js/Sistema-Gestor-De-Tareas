@@ -73,10 +73,10 @@ Aplicación de escritorio desarrollada con **JavaFX y Spring Boot** que permite 
 
 El proyecto sigue una arquitectura en capas:
 
-  -Controller → Manejo de eventos JavaFX
-  -Service → Lógica de negocio
-  -Repository → Acceso a datos (JPA)
-  -Model → Entidades
+- Controller → Manejo de eventos JavaFX
+- Service → Lógica de negocio
+- Repository → Acceso a datos (JPA)
+- Model → Entidades
 
 ## 📸 Capturas del sistema
 
@@ -105,18 +105,20 @@ mvnw.cmd spring-boot:run
 ### 🖥️ Uso del sistema
 
 1. Ingresa la información de la tarea:
-  -Tarea
-  -Responsable
-  -Estatus
+
+- Tarea
+- Responsable
+- Estatus
    
 2. Usa los botones:
-  -Agregar → Guarda nueva tarea
-  -Modificar → Actualiza tarea seleccionada
-  -Eliminar → Borra tarea
-  -Limpiar → Limpia los campos
+   
+- Agregar → Guarda nueva tarea
+- Modificar → Actualiza tarea seleccionada
+- Eliminar → Borra tarea
+- Limpiar → Limpia los campos
 
 ## 👨‍💻 Autor
 
-Julio Iván Pérez Romero
-📚 Estudiante de Ingeniería en Sistemas Computacionales
+- Julio Iván Pérez Romero
+- Estudiante de Ingeniería en Sistemas Computacionales
 
